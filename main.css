@@ -10,7 +10,7 @@ div {
 }
 
 #red { /* this selects anything with an "id" equal to red */
-  color: #f00;
+  color: red;
 }
 
 #orange{
